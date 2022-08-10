@@ -1,7 +1,7 @@
 ### Hey! I'm Byron. 👋 
 
 - I'm interested in Rust :crab:, Linux, and Cryptography
-- My open source focus is [Monero/Bitcoin Atomic Swaps](https://github.com/comit-network/xmr-btc-swap)
+- My open source focus is on [Monero/Bitcoin Atomic Swaps](https://github.com/comit-network/xmr-btc-swap)
 - I'm currently working on Liquid at [Blockstream](https://github.com/blockstream) 
 
 
