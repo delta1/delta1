@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hey! I'm Byron. 👋 
+
+- I'm interested in Rust :crab:, Linux, and Cryptography
+- My open source focus is on maintaining [Bitcoin/Monero Atomic Swaps](https://github.com/comit-network/xmr-btc-swap)
+- I'm currently working on Liquid at [Blockstream](https://github.com/blockstream) 
+
 
 <!--
 **delta1/delta1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
