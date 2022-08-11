@@ -7,5 +7,5 @@
 #### Please support my work on XMR/BTC Atomic Swaps
 
 - Github Sponsors: [github.com/sponsors/delta1](https://github.com/sponsors/delta1)
-- BTC payments: `bc1qc9spv0dsxkp90gez4ey8r8u80whmqvdm5regf8`
-- XMR payments: `8755HamjM1p3iDvccTQrVrNwYR6bLe95QWicZfjFovYGPKSW3jXfrW2VjJc82XKUGq4nEFUKkdVDgVugV8nWik37PTHkiB5`
+- BTC donations: `bc1qc9spv0dsxkp90gez4ey8r8u80whmqvdm5regf8`
+- XMR donations: `8755HamjM1p3iDvccTQrVrNwYR6bLe95QWicZfjFovYGPKSW3jXfrW2VjJc82XKUGq4nEFUKkdVDgVugV8nWik37PTHkiB5`
