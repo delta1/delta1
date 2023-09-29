@@ -1,4 +1,4 @@
-### Hey! I'm Byron. 👋 
+# Hey! I'm Byron. 👋 
 
 - :crab: I'm interested in Rust, Linux, Cryptography, Bitcoin, and Nix.
 - :ocean: I'm currently working on Liquid at [Blockstream](https://github.com/blockstream).
