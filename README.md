@@ -1,8 +1,7 @@
 # Hey! I'm Byron. 👋 
 
 - :crab: I'm interested in Rust, Linux, Cryptography, Bitcoin, and Nix.
-- :ocean: I'm currently working on Liquid at [Blockstream](https://github.com/blockstream).
-- 🔪 I'm also hacking on [Bitcoin/Monero Atomic Swaps](https://github.com/comit-network/xmr-btc-swap).
+- :ocean: I'm working on Liquid at [Blockstream](https://github.com/blockstream).
 
 ---
 
